@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    background-color: #BB8760;
+    color: white;
+    height: 9vh;
+}
+.header h3{
+    line-height: 9vh;
+}
+.nav li {
+    list-style: none;
+    margin-right: 5px;
+    align-items: center;
+    line-height: 9vh;
+}
+.nav li a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    border: 1px solid rgba(0, 0, 0, 0.37);
+    border-radius: 12px;
+    padding: 10px;
+}
+.nav li a:hover{
+    background-color: rgba(0, 0, 0, 0.37);
+}
+.sform{
+    padding: 20px;
+    background-color: #BB8760;
+    color: white;
+    border-radius: 20px;
+    
+}
